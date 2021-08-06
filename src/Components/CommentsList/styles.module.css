@@ -1,0 +1,20 @@
+.comment__list {
+  list-style: none;
+  padding: 15px 15px;
+}
+
+.comment__item {
+  padding-top: 10px;
+  border-top: 1px solid #dcdcdf;
+  border-bottom: 1px solid #dcdcdf;
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.6);
+}
+
+.comment__text {
+  word-wrap: break-word;
+}
+
+.comment__name {
+  font-size: 20px;
+  word-wrap: break-word;
+}
