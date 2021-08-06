@@ -33,7 +33,7 @@ function Navigation() {
       <Pagination
         activePage={page}
         itemsCountPerPage={10}
-        totalItemsCount={600}
+        totalItemsCount={610}
         pageRangeDisplayed={5}
         onChange={onPaginateClick.bind(this)}
         itemClass="page-item"
