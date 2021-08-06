@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/your-comments-app/static/css/main.978466f9.chunk.css",
+    "main.js": "/your-comments-app/static/js/main.ef05077e.chunk.js",
+    "main.js.map": "/your-comments-app/static/js/main.ef05077e.chunk.js.map",
+    "runtime-main.js": "/your-comments-app/static/js/runtime-main.66a6b862.js",
+    "runtime-main.js.map": "/your-comments-app/static/js/runtime-main.66a6b862.js.map",
+    "static/css/2.4be38407.chunk.css": "/your-comments-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.9d166804.chunk.js": "/your-comments-app/static/js/2.9d166804.chunk.js",
+    "static/js/2.9d166804.chunk.js.map": "/your-comments-app/static/js/2.9d166804.chunk.js.map",
+    "index.html": "/your-comments-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/your-comments-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.978466f9.chunk.css.map": "/your-comments-app/static/css/main.978466f9.chunk.css.map",
+    "static/js/2.9d166804.chunk.js.LICENSE.txt": "/your-comments-app/static/js/2.9d166804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a6b862.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9d166804.chunk.js",
+    "static/css/main.978466f9.chunk.css",
+    "static/js/main.ef05077e.chunk.js"
+  ]
+}
